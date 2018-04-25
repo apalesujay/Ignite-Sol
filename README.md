@@ -136,6 +136,9 @@ Zulwh d surjudp (lq Sbwkrq, MdydVfulsw ru Uxeb) wr srsxodwh dqg wkhq vruw d udqg
 
 Brxu surjudp vkrxog fduhixoob frqvlghu wkh lqsxw dqg frph xs zlwk wkh prvw hiilflhqw vruwlqj vroxwlrq brx fdq wklqn ri. Surylgh wkh vsdfh dqg wlph frpsohalwb ri brxu dojrulwkp.
 #### Solution:
+
+Write a program (in Python, JavaScript or Ruby) to populate and then sort a randomly distributed list of 1 million integers, each integer having a value >= 1 and <= 100 without using any builtin/external library/function for sorting. Your program should carefully consider the input and come up with the most efficient sorting solution you can think of. Provide the space and time complexity of your algorithm.
+
 *Language* : ***Python***
 
 	import time
