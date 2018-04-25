@@ -203,14 +203,15 @@ Counting sort has ***space complexity*** of ***O(k + N)***.
 
 We can reduce time and space complexity to O(N) as k is nigligible as compared to N.
 
-
 ### Question 7:
 Write a simple program that reads a line from the keyboard and outputs the same line where every word is reversed. A word is defined as a continuous sequence of alphanumeric characters or hyphen (‘-’). For instance, if the input is
+
 "**We are at Ignite Solutions! Their email-id is careers@ignitesol.com**"
 the output should be
 "**eW era ta etingI snoituloS! riehT di-liame si sreerac@losetingi.moc**"
+
 *HINT*: *Read the problem and the example carefully before starting*.
-####Solution:
+#### Solution:
 *Language* : ***Python***
 
 	def reverse(string):
